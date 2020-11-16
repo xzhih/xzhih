@@ -1,4 +1,6 @@
-### Hi there 👋
+![xzhih's github stats](https://github-readme-stats.vercel.app/api?username=xzhih)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzhih&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **xzhih/xzhih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
